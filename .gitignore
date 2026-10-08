@@ -1,0 +1,10 @@
+# Generated tilings (the folder itself is kept with .gitkeep)
+Output/*.png
+pavage*.png
+
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.vscode/
+.idea/
