@@ -69,8 +69,8 @@ On the 2 × 4 example above, the three exhaustive solvers agree on the same four
 ## Usage
 
 ```bash
-git clone https://github.com/bilal-jaiel/Tiling-Solver.git
-cd Tiling-Solver
+git clone https://github.com/bilal-jaiel/polyomino-tiling-solver.git
+cd polyomino-tiling-solver
 pip install -r requirements.txt
 ```
 
